@@ -205,13 +205,13 @@ const editorConfig = {
 		'        <tbody>\n' +
 		'            <tr>\n' +
 		'                <td style="border-style:none;text-align:center;">\n' +
-		'                    <a target="_blank" rel="noopener noreferrer" href="https://vk.com/your_profile"><img src="./assets/images/example/icon_vk.png" alt="VK" width="24" height="24"></a>\n' +
+		'                    <a target="_blank" rel="noopener noreferrer" href="https://vk.com/your_profile"><img src="/assets/images/example/icon_vk.png" alt="VK" width="24" height="24"></a>\n' +
 		'                </td>\n' +
 		'                <td style="border-style:none;text-align:center;">\n' +
-		'                    <a target="_blank" rel="noopener noreferrer" href="https://t.me/your_username"><img src="./assets/images/example/icon_tg.png" alt="Telegram" width="24" height="24"></a>\n' +
+		'                    <a target="_blank" rel="noopener noreferrer" href="https://t.me/your_username"><img src="/assets/images/example/icon_tg.png" alt="Telegram" width="24" height="24"></a>\n' +
 		'                </td>\n' +
 		'                <td style="border-style:none;text-align:center;">\n' +
-		'                    <a target="_blank" rel="noopener noreferrer" href="https://wa.me/your_number"><img src="./assets/images/example/icon_wa.png" alt="WhatsApp" width="24" height="24"></a>\n' +
+		'                    <a target="_blank" rel="noopener noreferrer" href="https://wa.me/your_number"><img src="/assets/images/example/icon_wa.png" alt="WhatsApp" width="24" height="24"></a>\n' +
 		'                </td>\n' +
 		'            </tr>\n' +
 		'        </tbody>\n' +
